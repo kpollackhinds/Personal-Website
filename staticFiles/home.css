@@ -1,0 +1,35 @@
+body {
+    background: #e9ecf2;
+    /* margin-top: 50px;
+    margin-left: 100px; */
+    }
+   
+  h1 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 2.5em;
+    color: #062538;
+    text-align: center;
+    }
+   
+  p {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: DarkSlateGray;
+    }
+
+    #intro {
+        font-family: Georgia, serif;
+        font-size: 1.2em;
+        color: DarkSlateGray;
+        text-align: center;
+    }
+
+    #home-buttons-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home-buttons {
+        margin: 5px;
+    }
